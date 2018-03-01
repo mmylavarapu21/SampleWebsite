@@ -1,3 +1,3 @@
 # SampleWebsite
 
-This is a sample website for logging in
+This is a sample website to check the Items Table
